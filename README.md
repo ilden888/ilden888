@@ -1,64 +1,88 @@
-# Привет. Меня зовут Денис!
-### <div align="center">Я аналитик данных 👨‍💻📈 работаю удаленно с 2021 года 🚀📈 Ранее работал интернет маркетологом, так же много работал с данными. Настройка автоотчетов по проведенным рекламным компаниям, внедрение сквозной аналитики, внедрение CRM - систем, настройка финансового учета компании. Выявление точек роста для бизнеса и работа над проблемами, на основе данных.</div>  
-  
+# Hi, I'm Denis
 
-<br/>  
+<div align="center">
 
+### Data Engineer | Analytics Engineer | Automation Specialist  
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+Remote Data Engineer since 2021.  
+Experienced in building data pipelines, analytics platforms, business automation systems, and end-to-end reporting solutions.
 
-
-
-### Frontend  
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+## About Me
 
+- 4+ years working with data and analytics systems  
+- Background in digital marketing and business analytics  
+- Experience building reporting automation and financial analytics  
+- Strong focus on scalable data architecture and process optimization  
+- Actively working with production data systems and BI platforms  
 
-### Backend  
+---
+
+## Core Skills
+
+### Data Engineering & Analytics
+
 <div align="center">  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://rubyonrails.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
-<a href="https://woocommerce.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="50" /></a>  
-</div> 
+<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="45" />
+<img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="45" />
+<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="45" />
+<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="45" />
+<img src="https://raw.githubusercontent.com/dbt-labs/docs.getdbt.com/main/website/static/img/dbt-logo-full.svg" height="45" />
+</div>
 
- </td><td valign="top" width="33%">
+---
 
+### BI & Visualization
 
+<div align="center">  
+<img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" height="45" />
+<img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" height="45" />
+</div>
 
+---
 
+### Backend & Automation
 
-<br/>  
+<div align="center">  
+<img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" height="45" />
+<img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="45" />
+<img src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" height="45" />
+</div>
 
-## Connect with me  
+---
+
+## What I Work With
+
+- Data Warehouses and analytical marts  
+- ETL/ELT pipelines  
+- Automated reporting systems  
+- CRM and payment system integrations  
+- API-based data ingestion  
+- Business process automation  
+
+---
+
+## Connect With Me
+
 <div align="center">
-<a href="https://github.com/https://github.com/ilden888" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+
+<a href="https://github.com/ilden888" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/denis-ilyshchikhin-5899b31b4/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
-<br/>  
+<a href="https://www.linkedin.com/in/denis-ilyshchikhin-5899b31b4/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
+</div>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ilden888&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+---
 
-<br/> 
+## GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ilden888&show_icons=true&count_private=true&hide_border=true" />
+</div>
