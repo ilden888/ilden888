@@ -73,7 +73,7 @@ Experienced in building data pipelines, analytics platforms, business automation
 <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/denis-ilyshchikhin-5899b31b4/" target="_blank">
+<a href="https://www.linkedin.com/in/denis-iliushchikhin/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
